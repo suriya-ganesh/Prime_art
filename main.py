@@ -173,8 +173,6 @@ def find_prime(num):
         else:
             maybe_prime = mutate(num)
         print(maybe_prime)
-        return maybe_prime
-
     return prime
 
 
